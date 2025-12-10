@@ -1,0 +1,29 @@
+ 1213  ls
+ 1214  cd ~/CS149/cs149
+ 1215  ls
+ 1216  cd WS1
+ 1217  ls
+ 1218  cd ~/xv6-labs-2023
+ 1219  ls
+ 1220  cat user/user.h
+ 1221  nvim user/sleep.c
+ 1222  ls
+ 1223  make qemu
+ 1224  nvim user
+ 1225  make qemu
+ 1226  nvim user/sleep.
+ 1227  nvim user/sleep.c
+ 1228  cat user/echo.c
+ 1229  nvim user/sleep.c
+ 1230  make qemu
+ 1231  nvim user/sleep.
+ 1232  nvim user/sleep.c
+ 1233  make qemu
+ 1234  nvim user/sleep.
+ 1235  nvim user/sleep.c
+ 1236  make qemu
+ 1237  nvim user/sleep.c
+ 1238  nvim user/sleep.c
+ 1239  make qemu
+ 1240  ls
+ 1241  ./grade-lab-util sleep
