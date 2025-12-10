@@ -1,0 +1,16 @@
+ 1123  pwd
+ 1124  cd ~
+ 1125  cd Desktop
+ 1126  ls -latr
+ 1127  cd ..
+ 1128  cd CS149
+ 1129  ls
+ 1130  cd cs149
+ 1131  ls
+ 1132  cd WS1
+ 1133  ls
+ 1134  git status
+ 1135  git add .
+ 1136  git status
+ 1137  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1138  ls -latr
